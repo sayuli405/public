@@ -1,5 +1,15 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "connect",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "aws",
+      "id": 2
+    },
+    "11": {
+      "title": "yahoo",
+      "id": 3
+    }
+  }
 }
